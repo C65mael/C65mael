@@ -7,6 +7,4 @@
 - 📫 How to reach me: Let’s explore the area ahead later.
 - 😄 Pronouns: 《游园不值》
 - ⚡ Fun fact: Nothing
-
-
-<img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux /linux-original.svg" alt="linux" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> 
+Some understanding：<img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> 
