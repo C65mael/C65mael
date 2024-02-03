@@ -3,8 +3,8 @@
 <img src="https://count.getloli.com/get/@:name" alt=":name" />
 
 - 🌱 I’m learning pwn
-- 💬 Ask me about Why are you you
+- 💬 Ask me about ：Why is it so confusing?
 - 📫 How to reach me: Let’s explore the area ahead later.
 - 😄 Pronouns: 《游园不值》
-- ⚡ Fun fact: Nothing
+- ⚡ Fun fact: なぜこんなことになるのですか？
 
